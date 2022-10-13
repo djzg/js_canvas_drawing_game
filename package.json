@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "app.js",
+    "dev": "lite-server"
+  }
+}
